@@ -1,0 +1,1 @@
+var hours=new Array("Faint emotions", "Loneliness", "Upright spirit", "The midnight heart")
