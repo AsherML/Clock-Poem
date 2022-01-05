@@ -7,3 +7,5 @@ is just counting down to the next. The Clock Poem seeks to change this by giving
 individual second of the day its own unique meaning. Every hour, minute, and second is matched
 with an associated phrase. Each moment then becomes its own unique poem, its own unique unit of
 meaning.
+
+View at: https://asherml.github.io/Clock-Poem/clock.html
